@@ -101,17 +101,13 @@ This project analyzes employee attrition using Python, Machine Learning, and Pow
 ## Dashboard Preview
 
 ### HR Dashboard
-![HR Dashboard](dashboard_page1.png)
+![HR Dashboard](Screenshot%202026-08-02%20154035.png)
 
 ### Department Analysis
-![Department Analysis](dashboard_page2.png)
+![Department Analysis](Screenshot%202026-08-02%20154147.png)
 
 ### Employee Demographics
-![Employee Demographics](dashboard_page3.png)
+![Employee Demographics](Screenshot%202026-08-02%20154212.png)
 
 ### Machine Learning Insights
-![Machine Learning Insights](dashboard_page4.png)
-Radhika Khapre
-Computer Engineering Student
-
-Mumbai University
+![Machine Learning Insights](Screenshot%202026-08-02%20154314.png)
